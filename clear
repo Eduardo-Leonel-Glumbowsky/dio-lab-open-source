@@ -1,0 +1,41 @@
+[1mdiff --git a/community/EduMagalhaess.md b/community/EduMagalhaess.md[m
+[1mdeleted file mode 100644[m
+[1mindex 59f4cd1442..0000000000[m
+[1m--- a/community/EduMagalhaess.md[m
+[1m+++ /dev/null[m
+[36m@@ -1,23 +0,0 @@[m
+[31m-# EduMagalhaess[m
+[31m-[m
+[31m-## Conecte-se comigo [m
+[31m-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duhmagalhaess/)[m
+[31m-[m
+[31m-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duhmagalhaess/)[m
+[31m-[m
+[31m-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/_MagEduardo)[m
+[31m-[m
+[31m-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduMagalhaess)[m
+[31m-[m
+[31m-## Habilidades [m
+[31m-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)[m
+[31m-[m
+[31m-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)[m
+[31m-[m
+[31m-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)[m
+[31m-[m
+[31m-## GitHub Stats[m
+[31m-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduMagalhaess&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)[m
+[31m-[m
+[31m-## Minhas Contribuições [m
+[31m-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EduMagalhaess&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/EduMagalhaess/dio-lab-open-source)[m
+\ No newline at end of file[m
+[1mdiff --git a/community/edumagalhaess.md b/community/edumagalhaess.md[m
+[1mdeleted file mode 100644[m
+[1mindex feb8e8d1d6..0000000000[m
+[1m--- a/community/edumagalhaess.md[m
+[1m+++ /dev/null[m
+[36m@@ -1,5 +0,0 @@[m
+[31m-# Meu Profile README[m
+[31m-[m
+[31m-Olá! Meu nome é Eduardo Magalhães (edumagalhaess).  [m
+[31m-Estou participando do desafio de contribuição open source da DIO.  [m
+[31m-Este é meu Profile README.[m
